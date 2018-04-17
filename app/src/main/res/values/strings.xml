@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WifiAttendence</string>
+
+    <string name="choiceHead">Choose user</string>
+    <string-array name="userType">
+        <item>Teacher</item>
+        <item>Student</item>
+    </string-array>
+</resources>
